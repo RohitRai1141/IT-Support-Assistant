@@ -1,0 +1,15 @@
+{
+  "safety": {
+    "personal_protective_equipment": "<h4>Helmet</h4>, <b>shoes</b>, and reflective jacket are mandatory to enter terminal",
+    "speed_limit": "Maximum 20 km/hr allowed in yard area",
+    "emergency_siren": "Tested every Friday at 15:00 hours",
+    "assembly_point": "Gather near QC Anchor Point during emergencies",
+    "health_safety_policy": "Zero harm to people, environment, and promote good health",
+    "alcohol_policy": "Alcohol consumption before reporting to terminal is prohibited",
+    "fire_safety": "Use PASS method: Pull, Aim, Squeeze, Sweep",
+    "safety_breach": "Immediate removal from site after 2 breaches",
+    "swa": "SWA stands for Stop Work Authority",
+    "rohitrai tttc" : "Rohitrai",
+    "tttc": "TTTC stands for Take Time Take Charge"
+  }
+}
